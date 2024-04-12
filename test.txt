@@ -1,2 +1,0 @@
-test 1
-đây là file test 1 thuộc branch1
