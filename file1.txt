@@ -1,0 +1,2 @@
+đây là branch main
+đây là file file1.txt thuộc branch: branch1
